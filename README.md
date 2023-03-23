@@ -32,7 +32,6 @@ The prompt includes an icon that indicates the stack type. The following icons a
 To use this theme, clone the repository and add the path to your .zshrc file:
 
 ```makefile
-Copy code
 ZSH_THEME="path/to/oh-my-zsh-joaoantoniomaruti-theme/theme.zsh"
 ```
 
