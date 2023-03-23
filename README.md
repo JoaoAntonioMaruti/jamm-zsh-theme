@@ -12,13 +12,13 @@ The theme includes the following features:
 ### Git Integration
 The prompt includes the current git branch and status, which is indicated by icons. The following icons are used:
 
-± indicates there are changes to be committed.
-✓ indicates there are no changes to commit.
-▴ indicates the branch is ahead of the remote.
-▾ indicates the branch is behind the remote.
-● indicates there are staged changes.
-● indicates there are unstaged changes.
-● indicates there are untracked files.
+ - ± indicates there are changes to be committed.
+ - ✓ indicates there are no changes to commit.
+ - ▴ indicates the branch is ahead of the remote.
+ - ▾ indicates the branch is behind the remote.
+ - ● indicates there are staged changes.
+ - ● indicates there are unstaged changes.
+ - ● indicates there are untracked files.
 
 ### Stack Icon
 The prompt includes an icon that indicates the stack type. The following icons are used:
