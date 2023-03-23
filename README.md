@@ -1,6 +1,13 @@
-# Aphrodite Terminal Theme
+# JAMM Terminal Theme
 
-A minimalistic terminal theme (prompt) that does not have any visual noise. Displays only the necessary information: virtual env, current user, hostname, working directory, and git branch if exists. Looks great both with dark and white terminals. Bash, fish and zsh are supported.
+A minimalistic terminal theme (prompt) that does not have any visual noise. Displays only the necessary information: virtual env, current user, hostname, working directory, and git branch if exists.
+
+The prompt shows the path, username, and hostname, and also adds an icon based on the file type in the current directory.
+### Technologies
+ - Elixir
+ - JavaScript
+ - Dart
+ - Vim
 
 ![JAMM Terminal Theme](./assets/screenshot.png)
 
